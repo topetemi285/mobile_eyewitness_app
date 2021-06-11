@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "420468734202",
+    "project_id": "reportdb-135e8",
+    "storage_bucket": "reportdb-135e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420468734202:android:85f1cfc1775c21e0aaf143",
+        "android_client_info": {
+          "package_name": "com.example.crime_report_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420468734202-t2s49qqk28fnk9f4gsvhljmt9o9ke4uq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEqxAnamwDvSagYlfoafeflRfEeIX0UGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420468734202-t2s49qqk28fnk9f4gsvhljmt9o9ke4uq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
