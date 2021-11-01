@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "11995822911",
+    "project_id": "eyewitness-9ec1f",
+    "storage_bucket": "eyewitness-9ec1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11995822911:android:835e4f906f22e7579c318a",
+        "android_client_info": {
+          "package_name": "com.example.eyewitness_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11995822911-n5rr264vmlrrufn6uhrshjmte151ujc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcEcodne0vd7gvghSl7nPJ2Lz-5hKhx0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11995822911-n5rr264vmlrrufn6uhrshjmte151ujc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
